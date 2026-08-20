@@ -53,3 +53,17 @@ The Streamlit web application includes:
 <img width="1881" height="809" alt="image" src="https://github.com/user-attachments/assets/9ee4b675-fd7d-4848-90ed-d43e9a5b5506" />
 
 <img width="1527" height="513" alt="image" src="https://github.com/user-attachments/assets/60c22ad6-b92a-4e19-8972-1c0c56c12d04" />
+
+
+**HHI Concentration & Geopolitical Sanction Simulation**
+
+<img width="870" height="464" alt="image" src="https://github.com/user-attachments/assets/484cff3c-cc9e-42ef-b9bf-3fda4a434756" />
+
+
+**Unit Pricing, Merit-Order Supply Curve & Chokepoint Analysis**
+
+<img width="734" height="261" alt="image" src="https://github.com/user-attachments/assets/af1541fa-54c8-43bc-ae0f-35e810f4acc0" />
+
+<img width="1568" height="729" alt="image" src="https://github.com/user-attachments/assets/a9455f31-39d7-4e54-80af-f72ad14b50e9" />
+
+<img width="898" height="136" alt="image" src="https://github.com/user-attachments/assets/53c53b9a-2a26-44c6-84ba-c33eecd9a2f3" />

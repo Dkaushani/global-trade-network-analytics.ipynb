@@ -67,3 +67,7 @@ The Streamlit web application includes:
 <img width="1568" height="729" alt="image" src="https://github.com/user-attachments/assets/a9455f31-39d7-4e54-80af-f72ad14b50e9" />
 
 <img width="898" height="136" alt="image" src="https://github.com/user-attachments/assets/53c53b9a-2a26-44c6-84ba-c33eecd9a2f3" />
+
+**Corporate Finance, Credit Risk & Margin Sensitivity**
+
+<img width="812" height="577" alt="image" src="https://github.com/user-attachments/assets/cd62f59a-0e3e-4199-a94c-d04ba7f3b279" />

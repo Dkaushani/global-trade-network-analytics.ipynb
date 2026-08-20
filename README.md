@@ -49,3 +49,7 @@ The Streamlit web application includes:
 
 <img width="505" height="653" alt="image" src="https://github.com/user-attachments/assets/c4c44980-e15a-4db8-b6ea-4bd4436172cc" />
 
+
+<img width="1881" height="809" alt="image" src="https://github.com/user-attachments/assets/9ee4b675-fd7d-4848-90ed-d43e9a5b5506" />
+
+<img width="1527" height="513" alt="image" src="https://github.com/user-attachments/assets/60c22ad6-b92a-4e19-8972-1c0c56c12d04" />

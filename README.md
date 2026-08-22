@@ -41,8 +41,8 @@ Global supply chains for critical commodities like fertilizers are highly concen
 ## 🚀 Interactive Dashboard Features
 
 The Streamlit web application includes:
-* **Dynamic Corridor Filtering:** Filter global trade networks by minimum transaction values ($M).
-* **Country Node Selection:** Isolate individual nations (e.g., *Oman* or *Brazil*) to inspect their specific import/export web.
+* **Dynamic Corridor Filtering:** Filtering global trade networks by minimum transaction values ($M).
+* **Country Node Selection:** Isolating individual nations (e.g., *Oman* or *Brazil*) to inspect their specific import/export web.
 * **Real-time KPI Metrics:** Instantly recalculates total trade volume ($M), active trade routes, and participating economies based on user filters.
 
 <img width="865" height="596" alt="image" src="https://github.com/user-attachments/assets/59f21316-3c4f-41a7-a3fd-57b3f4b649bf" />
